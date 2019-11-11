@@ -2,4 +2,4 @@
 
 ### I can't wait to see what you create!
 
-![Penguins](penguins.jpg)
+![Penguins](Penguins.jpg)
